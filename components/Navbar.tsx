@@ -33,8 +33,8 @@ const Navbar = () => {
   ];
 
   // External URLs for your buttons
-  const workerAppUrl = "https://localhost:3002"; // Replace with your worker app URL
-  const userAppUrl = "https://localhost:3001"; // Replace with your user app URL
+  const workerAppUrl = "http://localhost:3002"; // Replace with your worker app URL
+  const userAppUrl = "http://localhost:3001"; // Replace with your user app URL
 
   return (
     <motion.header
